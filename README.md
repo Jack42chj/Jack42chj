@@ -42,5 +42,5 @@
 
 ## 📈 Stats
 
-![Jack42chj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack42chj&show_icons=true&theme=transparent)
+![Jack42chj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack42chj&show_icons=true&theme=transparent&hide_rank=true)
 ![Jack42chj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack42chj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
