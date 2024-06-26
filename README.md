@@ -2,9 +2,9 @@
 
 ## 😎 About
 
-<a href="https://choihojin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/CHJ's Portfolio-1A2477?style=for-the-badge&logo=chai&logoColor=white"/></a>
-<a href="https://velog.io/@hojinch99" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hojinchoi-jack42" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://choihojin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/CHJ's Portfolio-1A2477?style=flat-square&logo=chai&logoColor=white"/></a>
+<a href="https://velog.io/@hojinch99" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hojinchoi-jack42" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 ## 🛠️ Tools
 
