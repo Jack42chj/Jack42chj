@@ -1,5 +1,11 @@
 ## Hi there, I'm Hojin Choi👋
 
+## 📈 About
+
+<a href="https://choihojin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/CHJ's Portfolio-1A2477?style=for-the-badge&logo=chai&logoColor=white"/></a>
+<a href="https://velog.io/@hojinch99" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hojinchoi-jack42" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-20C997?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 ## 🛠️ Tools
 
 <div>
@@ -42,8 +48,6 @@
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white">
   <img src="https://img.shields.io/badge/framer-0055ff?style=for-the-badge&logo=framer&logoColor=white">
 </div>
-
-## 📈 Stats
-
+<br />
 ![Jack42chj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack42chj&show_icons=true&theme=transparent)
 ![Jack42chj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack42chj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
