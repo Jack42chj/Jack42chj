@@ -1,6 +1,6 @@
 ## Hi there, I'm Hojin Choi👋
 
-## 📈 About
+## 😎 About
 
 <a href="https://choihojin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/CHJ's Portfolio-1A2477?style=for-the-badge&logo=chai&logoColor=white"/></a>
 <a href="https://velog.io/@hojinch99" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
